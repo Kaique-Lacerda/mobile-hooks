@@ -1,4 +1,4 @@
-# React Native : criando menu e navegando entre telas.
+u# React Native : criando menu e navegando entre telas.
 ![enter image description here](https://user-images.githubusercontent.com/9091491/140552376-f1c1523d-5c69-42fe-a2fa-4021ed77160a.gif)
 
 ## 🛠️ Abrir configurar e rodar o projeto
